@@ -1,0 +1,20 @@
+table,tr,th,td{
+    border: solid 2px;
+}
+#table{
+    width: 700px;
+    margin-bottom: 30px;
+
+}
+#btn{
+    margin-top: 10px;
+}
+#table tr{
+    text-align: center;
+}
+.ttl{
+    color: red;
+}
+.prctge{
+    color: blue;
+}
